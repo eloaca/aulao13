@@ -22,4 +22,4 @@ yarn start
 
 ## Demo
 
-<img src="/blob/develop/demo.png" alt="Demo"/>
+<img src="/demo.png" alt="Demo"/>
