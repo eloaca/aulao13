@@ -18,7 +18,7 @@ Este projeto foi criado através do [Create React App](https://github.com/facebo
 ```sh
 yarn start
 ```
-- Acesse através desta [URL](localhost:3000)
+- Acesse através da URL: localhost:3000
 
 ## Demo
 
