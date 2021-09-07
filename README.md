@@ -1,5 +1,5 @@
 # Github Profile
-Este SAP (Single App Aplication) consome a API do Github e exibe algumas informações conforme o user inserido. 
+Este SAP (Single App Application) consome a API do Github e exibe algumas informações conforme o user inserido. 
 
 Foi desenvolvido após a live "ReactJS primeiros passos - Introdução Prática - Aulão #013" realizada pelo [devSuperior](https://www.youtube.com/watch?v=IOJoJGDowEY&feature=youtu.be&ab_channel=DevSuperior).
 
@@ -18,7 +18,10 @@ Este projeto foi criado através do [Create React App](https://github.com/facebo
 ```sh
 yarn start
 ```
-- Acesse através da URL: localhost:3000
+- Acesse através da URL 
+´´´sh
+localhost:3000
+´´´
 
 ## Demo
 
